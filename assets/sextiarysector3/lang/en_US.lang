@@ -1,4 +1,41 @@
 #English en_US
 
 #Block
+#-Core-
 tile.ss.lapis_pressure_plate.name=Lapis Pressure Plate
+tile.ss.copper_pressure_plate.name=Copper Pressure Plate
+tile.ss.silver_pressure_plate.name=Silver Pressure Plate
+tile.ss.orichalcum_pressure_plate.name=Orichalcum Pressure Plate
+
+tile.ss.sanctuary.name=Sanctuary
+
+#-Forestry-
+tile.ss.rubber_sapling.name=Rubber Sapling
+tile.ss.rubber_log.name=Rubber Log
+tile.ss.rubber_leaves.name=Rubber Leaves
+
+tile.ss.spile.name=Spile
+
+tile.ss.sap_cauldron.name=Sap Cauldron
+tile.ss.rubber_cauldron.name=Rubber Cauldron
+
+#-Mining-
+tile.ss.copper_ore.name=Copper Ore
+tile.ss.silver_ore.name=Silver Ore
+tile.ss.orichalcum_ore.name=Orichalcum Ore
+
+
+#Item
+#-Core-
+
+
+#-Mining-
+item.ss.copper_ingot.name=Copper Ingot
+item.ss.silver_ingot.name=Silver Ingot
+item.ss.orichalcum_gem.name=Orichalcum
+
+
+#Tab
+itemGroup.ss.core=SextiarySector -Core-
+itemGroup.ss.forestry=SextiarySector -Forestry-
+itemGroup.ss.mining=SextiarySector -Mining-
