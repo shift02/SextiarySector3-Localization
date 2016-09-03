@@ -29,6 +29,10 @@ tile.ss.orichalcum_ore.name=Orichalcum Ore
 #-Core-
 item.ss.plastic_shield.name=Plastic Shield
 
+#-Forestry-
+item.ss.sap_bottle.name=Sap Bottle
+item.ss.rubber_bottle.name=Rubber Bottle
+
 #-Mining-
 item.ss.copper_ingot.name=Copper Ingot
 item.ss.silver_ingot.name=Silver Ingot
