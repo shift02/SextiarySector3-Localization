@@ -40,6 +40,12 @@ item.ss.orichalcum_gem.name=Orichalcum
 
 
 #-Industry-
+item.ss.coal_dust.name=Coal Dust
+item.ss.iron_dust.name=Iron Dust
+item.ss.gold_dust.name=Gold Dust
+item.ss.copper_dust.name=Copper Dust
+item.ss.silver_dust.name=Silver Dust
+
 item.ss.plastic.name=Plastic
 
 
