@@ -24,6 +24,12 @@ tile.ss.copper_ore.name=Copper Ore
 tile.ss.silver_ore.name=Silver Ore
 tile.ss.orichalcum_ore.name=Orichalcum Ore
 
+tile.ss.coal_large_ore.name=Copper Large Ore
+tile.ss.iron_large_ore.name=Iron Large Ore
+tile.ss.gold_large_ore.name=Gold Large Ore
+tile.ss.copper_large_ore.name=Copper Large Ore
+tile.ss.silver_large_ore.name=Silver Large Ore
+
 
 #Item
 #-Core-
