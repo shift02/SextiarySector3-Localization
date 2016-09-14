@@ -35,6 +35,7 @@ tile.ss.silver_large_ore.name=Silver Large Ore
 #-Core-
 item.ss.plastic_shield.name=Plastic Shield
 
+#Tool
 item.ss.copper_shovel.name=Copper Shovel
 item.ss.copper_pickaxe.name=Copper Pickaxe
 item.ss.copper_axe.name=Copper Axe
