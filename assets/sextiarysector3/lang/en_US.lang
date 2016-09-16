@@ -42,6 +42,12 @@ item.ss.copper_axe.name=Copper Axe
 item.ss.copper_sword.name=Copper Sword
 item.ss.copper_hoe.name=Copper Hoe
 
+item.ss.silver_shovel.name=Silver Shovel
+item.ss.silver_pickaxe.name=Silver Pickaxe
+item.ss.silver_axe.name=Silver Axe
+item.ss.silver_sword.name=Silver Sword
+item.ss.silver_hoe.name=Silver Hoe
+
 #-Forestry-
 item.ss.sap_bottle.name=Sap Bottle
 item.ss.rubber_bottle.name=Rubber Bottle
