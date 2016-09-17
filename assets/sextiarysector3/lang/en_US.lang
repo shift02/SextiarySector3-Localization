@@ -48,6 +48,12 @@ item.ss.silver_axe.name=Silver Axe
 item.ss.silver_sword.name=Silver Sword
 item.ss.silver_hoe.name=Silver Hoe
 
+item.ss.orichalcum_shovel.name=Orichalcum Shovel
+item.ss.orichalcum_pickaxe.name=Orichalcum Pickaxe
+item.ss.orichalcum_axe.name=Orichalcum Axe
+item.ss.orichalcum_sword.name=Orichalcum Sword
+item.ss.orichalcum_hoe.name=Orichalcum Hoe
+
 #-Forestry-
 item.ss.sap_bottle.name=Sap Bottle
 item.ss.rubber_bottle.name=Rubber Bottle
