@@ -36,6 +36,8 @@ tile.ss.orichalcum_block.name=Orichalcum Block
 
 #Item
 #-Core-
+item.ss.bluestone.name=Bluestone Dust
+
 item.ss.plastic_shield.name=Plastic Shield
 
 #Tool
