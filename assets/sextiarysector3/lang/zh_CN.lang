@@ -84,7 +84,7 @@
  +
  +
  +#Tab
- +itemGroup.ss.core=第六产业—核心—
- +itemGroup.ss.forestry=第六产业—林业—
- +itemGroup.ss.mining=第六产业—矿物—
- +itemGroup.ss.industry=第六产业—工业—
+ +itemGroup.ss.core=第六产业|核心|
+ +itemGroup.ss.forestry=第六产业|林业|
+ +itemGroup.ss.mining=第六产业|矿物|
+ +itemGroup.ss.industry=第六产业|工业|
