@@ -64,6 +64,22 @@ item.ss.orichalcum_axe.name=Orichalcum Axe
 item.ss.orichalcum_sword.name=Orichalcum Sword
 item.ss.orichalcum_hoe.name=Orichalcum Hoe
 
+#Equipment
+item.ss.copper_helmet.name=Copper Helmet
+item.ss.copper_chestplate.name=Copper Chestplate
+item.ss.copper_leggings.name=Copper Leggings
+item.ss.copper_boots.name=Copper Boots
+
+item.ss.silver_helmet.name=Silver Helmet
+item.ss.silver_chestplate.name=Silver Chestplate
+item.ss.silver_leggings.name=Silver Leggings
+item.ss.silver_boots.name=Silver Boots
+
+item.ss.orichalcum_helmet.name=Orichalcum Helmet
+item.ss.orichalcum_chestplate.name=Orichalcum Chestplate
+item.ss.orichalcum_leggings.name=Orichalcum Leggings
+item.ss.orichalcum_boots.name=Orichalcum Boots
+
 #-Forestry-
 item.ss.sap_bottle.name=Sap Bottle
 item.ss.rubber_bottle.name=Rubber Bottle
