@@ -105,3 +105,12 @@ itemGroup.ss.core=SextiarySector -Core-
 itemGroup.ss.forestry=SextiarySector -Forestry-
 itemGroup.ss.mining=SextiarySector -Mining-
 itemGroup.ss.industry=SextiarySector -Industry-
+
+#Config
+config.ss.title=SextiarySector3 Configuration
+
+config.ss.general=General Settings
+config.ss.general.tooltip=Change the settings contained in general category.
+
+config.ss.general.fast_decay_leaves=Fast Decay Leaves
+config.ss.general.fast_decay_leaves.tooltip=Specify the bool for enable fast decay leaves.
