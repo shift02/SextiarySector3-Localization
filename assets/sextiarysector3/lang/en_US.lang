@@ -128,4 +128,19 @@ config.ss.world.generate_silver_ore.tooltip=Specify the bool for generate silver
 config.ss.world.generate_orichalcum_ore=Generate Orichalcum Ore
 config.ss.world.generate_orichalcum_ore.tooltip=Generates orichalcum ore blocks in the world.
 
+config.ss.world.generate_coal_large_ore=Generate Coal Large Ore
+config.ss.world.generate_coal_large_ore.tooltip=Generates coal large ore blocks in the world.
+
+config.ss.world.generate_iron_large_ore=Generate Iron Large Ore
+config.ss.world.generate_iron_large_ore.tooltip=Generates iron large ore blocks in the world.
+
+config.ss.world.generate_gold_large_ore=Generate Gold Large Ore
+config.ss.world.generate_gold_large_ore.tooltip=Generates gold large ore blocks in the world.
+
+config.ss.world.generate_copper_large_ore=Generate Copper Large Ore
+config.ss.world.generate_copper_large_ore.tooltip=Generates copper large ore blocks in the world.
+
+config.ss.world.generate_silver_large_ore=Generate Silver Large Ore
+config.ss.world.generate_silver_large_ore.tooltip=Generates silver large ore blocks in the world.
+
 
