@@ -114,3 +114,18 @@ config.ss.general.tooltip=Change the settings contained in general category.
 
 config.ss.general.fast_decay_leaves=Fast Decay Leaves
 config.ss.general.fast_decay_leaves.tooltip=Specify the bool for enable fast decay leaves.
+
+
+config.ss.world=World Settings
+config.ss.world.tooltip=Change the settings contained in world category.
+
+config.ss.world.generate_copper_ore=Generate Copper Ore
+config.ss.world.generate_copper_ore.tooltip=Specify the bool for generate copper ore.
+
+config.ss.world.generate_silver_ore=Generate Silver Ore
+config.ss.world.generate_silver_ore.tooltip=Specify the bool for generate silver ore.
+
+config.ss.world.generate_orichalcum_ore=Generate Orichalcum Ore
+config.ss.world.generate_orichalcum_ore.tooltip=Generates orichalcum ore blocks in the world.
+
+
