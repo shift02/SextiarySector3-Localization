@@ -45,6 +45,8 @@ item.ss.plastic_shield.name=Plastic Shield
 
 item.ss.ender_card.name=Ender Card
 
+item.ss.depth_meter.name=Depth Meter
+
 #Tool
 item.ss.copper_shovel.name=Copper Shovel
 item.ss.copper_pickaxe.name=Copper Pickaxe
@@ -105,6 +107,13 @@ itemGroup.ss.core=SextiarySector -Core-
 itemGroup.ss.forestry=SextiarySector -Forestry-
 itemGroup.ss.mining=SextiarySector -Mining-
 itemGroup.ss.industry=SextiarySector -Industry-
+
+#Achievement
+achievement.ss.core=SS3 -Core-
+
+achievement.ss.bluestone=New possibilities
+achievement.ss.bluestone.desc=Smelting a redstone
+achievement.ss.bluestone.desc.unlocked=Stable energy
 
 #Config
 config.ss.title=SextiarySector3 Configuration
