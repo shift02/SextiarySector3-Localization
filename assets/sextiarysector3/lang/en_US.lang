@@ -115,6 +115,30 @@ achievement.ss.bluestone=New possibilities
 achievement.ss.bluestone.desc=Smelting a redstone
 achievement.ss.bluestone.desc.unlocked=Stable energy
 
+achievement.ss.shield=Secret shield
+achievement.ss.shield.desc=Craft a shield
+achievement.ss.shield.desc.unlocked=Easy to use!
+
+achievement.ss.forestry=SS3 -Forestry-
+
+achievement.ss.spile=Gently one stab
+achievement.ss.spile.desc=Craft a spile
+achievement.ss.spile.desc.unlocked=Trembling
+
+achievement.ss.sap_bottle=Seems sweet
+achievement.ss.sap_bottle.desc=Recover sap from the cauldron
+achievement.ss.sap_bottle.desc.unlocked=Well ...
+
+achievement.ss.rubber_bottle=Electricity is invalid !
+achievement.ss.rubber_bottle.desc=Recover rubber from the cauldron
+achievement.ss.rubber_bottle.desc.unlocked=Ahahahaha
+
+achievement.ss.industry=SS3 -Industry-
+
+achievement.ss.plastic=Light and stiff
+achievement.ss.plastic.desc=Smelting a sap
+achievement.ss.plastic.desc.unlocked=and Transparent
+
 #Config
 config.ss.title=SextiarySector3 Configuration
 
