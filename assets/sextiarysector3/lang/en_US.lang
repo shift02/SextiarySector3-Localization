@@ -119,6 +119,15 @@ achievement.ss.shield=Secret shield
 achievement.ss.shield.desc=Craft a shield
 achievement.ss.shield.desc.unlocked=Easy to use!
 
+achievement.ss.sanctuary=3 * 3
+achievement.ss.sanctuary.desc=Craft a sanctuary
+achievement.ss.sanctuary.desc.1/2
+
+achievement.ss.depth_meter=Necessities of coal miners' husbands
+achievement.ss.depth_meter.desc=Craft a depth meter
+achievement.ss.depth_meter.desc.unlocked=To a further depth
+
+
 achievement.ss.forestry=SS3 -Forestry-
 
 achievement.ss.spile=Gently one stab
@@ -132,6 +141,19 @@ achievement.ss.sap_bottle.desc.unlocked=Well ...
 achievement.ss.rubber_bottle=Electricity is invalid !
 achievement.ss.rubber_bottle.desc=Recover rubber from the cauldron
 achievement.ss.rubber_bottle.desc.unlocked=Ahahahaha
+
+
+achievement.ss.mining=SS3 -Mining-
+
+achievement.ss.new_ore=New strata
+achievement.ss.new_ore.desc=Pickup a ss3 ore
+achievement.ss.new_ore.desc.unlocked=Earthquake occurrence ?
+
+achievement.ss.silver=Poisoning
+achievement.ss.silver.desc=Smelting a silver ore
+achievement.ss.silver.desc.unlocked=Pero, this is
+
+
 
 achievement.ss.industry=SS3 -Industry-
 
