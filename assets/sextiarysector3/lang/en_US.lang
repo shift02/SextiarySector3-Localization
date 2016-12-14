@@ -198,4 +198,6 @@ config.ss.world.generate_copper_large_ore.tooltip=Generates copper large ore blo
 config.ss.world.generate_silver_large_ore=Generate Silver Large Ore
 config.ss.world.generate_silver_large_ore.tooltip=Generates silver large ore blocks in the world.
 
+#JEI
+gui.ss3.category.cauldron=Cauldron
 
