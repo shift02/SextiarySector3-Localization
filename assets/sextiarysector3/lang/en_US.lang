@@ -102,6 +102,10 @@ item.ss.silver_dust.name=Silver Dust
 item.ss.plastic.name=Plastic
 
 
+#Fluid
+fluid.sap.name=Sap
+fluid.rubber.name=Rubber
+
 #Tab
 itemGroup.ss.core=SextiarySector -Core-
 itemGroup.ss.forestry=SextiarySector -Forestry-
@@ -200,4 +204,5 @@ config.ss.world.generate_silver_large_ore.tooltip=Generates silver large ore blo
 
 #JEI
 gui.ss3.category.cauldron=Cauldron
+gui.ss3.category.spile=Spile
 
