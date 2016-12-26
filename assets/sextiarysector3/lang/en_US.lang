@@ -37,6 +37,9 @@ tile.ss.copper_block.name=Copper Block
 tile.ss.silver_block.name=Silver Block
 tile.ss.orichalcum_block.name=Orichalcum Block
 
+#-Industry-
+tile.ss.plastic_block.name=Plastic Block
+
 #Item
 #-Core-
 item.ss.bluestone.name=Bluestone Dust
