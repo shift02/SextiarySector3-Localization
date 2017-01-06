@@ -39,6 +39,7 @@ tile.ss.orichalcum_block.name=Orichalcum Block
 
 #-Industry-
 tile.ss.plastic_block.name=Plastic Block
+tile.ss.rubber_block.name=Rubber Block
 
 #Item
 #-Core-
@@ -104,6 +105,8 @@ item.ss.silver_dust.name=Silver Dust
 
 item.ss.plastic.name=Plastic
 item.ss.rubber.name=Rubber
+
+item.ss.rubber_gloves.name=Rubber Gloves
 
 
 #Fluid
