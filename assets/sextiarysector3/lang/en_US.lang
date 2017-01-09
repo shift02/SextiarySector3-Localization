@@ -172,6 +172,10 @@ achievement.ss.plastic=Light and stiff
 achievement.ss.plastic.desc=Smelting a sap
 achievement.ss.plastic.desc.unlocked=and Transparent
 
+achievement.ss.rubber=Soft
+achievement.ss.rubber.desc=Smelting a rubber
+achievement.ss.rubber.desc.unlocked=Hard
+
 #Config
 config.ss.title=SextiarySector3 Configuration
 
