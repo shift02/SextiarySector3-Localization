@@ -89,6 +89,7 @@ item.ss.orichalcum_boots.name=Orichalcum Boots
 #-Forestry-
 item.ss.sap_bottle.name=Sap Bottle
 item.ss.rubber_bottle.name=Rubber Bottle
+item.ss.maple_bottle.name=Maple Bottle
 
 #-Mining-
 item.ss.copper_ingot.name=Copper Ingot
