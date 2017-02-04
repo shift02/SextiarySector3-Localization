@@ -17,10 +17,15 @@ tile.ss.rubber_sapling.name=Rubber Sapling
 tile.ss.rubber_log.name=Rubber Log
 tile.ss.rubber_leaves.name=Rubber Leaves
 
+tile.ss.maple_sapling.name=Maple Sapling
+tile.ss.maple_log.name=Maple Log
+tile.ss.maple_leaves.name=Maple Leaves
+
 tile.ss.spile.name=Spile
 
 tile.ss.sap_cauldron.name=Sap Cauldron
 tile.ss.rubber_cauldron.name=Rubber Cauldron
+tile.ss.maple_cauldron.name=Maple Cauldron
 
 #-Mining-
 tile.ss.copper_ore.name=Copper Ore
