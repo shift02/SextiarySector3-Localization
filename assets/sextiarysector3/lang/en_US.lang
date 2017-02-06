@@ -46,6 +46,9 @@ tile.ss.orichalcum_block.name=Orichalcum Block
 tile.ss.plastic_block.name=Plastic Block
 tile.ss.rubber_block.name=Rubber Block
 
+#-Cooking-
+tile.ss.maple_cake.name=Maple Cake
+
 #Item
 #-Core-
 item.ss.bluestone.name=Bluestone Dust
