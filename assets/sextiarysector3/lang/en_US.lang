@@ -123,6 +123,7 @@ item.ss.duct_tape.name=Duct Tape
 #Fluid
 fluid.sap.name=Sap
 fluid.rubber.name=Rubber
+fluid.maple.name=Maple
 
 #Tab
 itemGroup.ss.core=SextiarySector -Core-
@@ -163,6 +164,10 @@ achievement.ss.sap_bottle.desc.unlocked=Well ...
 achievement.ss.rubber_bottle=Electricity is invalid !
 achievement.ss.rubber_bottle.desc=Recover rubber from the cauldron
 achievement.ss.rubber_bottle.desc.unlocked=Ahahahaha
+
+achievement.ss.maple_bottle=Very sweet !
+achievement.ss.maple_bottle.desc=Recover maple from the cauldron
+achievement.ss.maple_bottle.desc.unlocked=Materials for medicine
 
 
 achievement.ss.mining=SS3 -Mining-
