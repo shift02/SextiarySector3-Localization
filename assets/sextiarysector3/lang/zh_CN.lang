@@ -1,90 +1,234 @@
-+#chinese zh_CN
- +
- +#Block
- +#-Core-
- +tile.ss.lapis_pressure_plate.name=青金石l压力板
- +tile.ss.copper_pressure_plate.name=铜压力板
- +tile.ss.silver_pressure_plate.name=银压力板
- +tile.ss.orichalcum_pressure_plate.name=山铜压力板
- +
- +tile.ss.sanctuary.name=避难所
- +
- +tile.ss.ender_stone.name=末地石纪念碑
- +
- +#-Forestry-
- +tile.ss.rubber_sapling.name=橡胶树苗
- +tile.ss.rubber_log.name=橡胶原木
- +tile.ss.rubber_leaves.name=橡胶树叶
- +
- +tile.ss.spile.name=木桩
- +
- +tile.ss.sap_cauldron.name=汁液锅
- +tile.ss.rubber_cauldron.name=橡胶锅
- +
- +#-Mining-
- +tile.ss.copper_ore.name=铜矿石
- +tile.ss.silver_ore.name=银矿石
- +tile.ss.orichalcum_ore.name=山铜矿石
- +
- +tile.ss.coal_large_ore.name=大型煤炭矿石
- +tile.ss.iron_large_ore.name=大型铁矿石
- +tile.ss.gold_large_ore.name=大型金矿石
- +tile.ss.copper_large_ore.name=大型铜矿石
- +tile.ss.silver_large_ore.name=大型银矿石
- +
- +tile.ss.copper_block.name=铜块
- +tile.ss.silver_block.name=银块
- +tile.ss.orichalcum_block.name=山铜块
- +
- +#Item
- +#-Core-
- +item.ss.bluestone.name=蓝石粉
- +
- +item.ss.plastic_shield.name=塑料盾牌
- +
- +item.ss.ender_card.name=末影卡
- +
- +#Tool
- +item.ss.copper_shovel.name=铜铲
- +item.ss.copper_pickaxe.name=铜镐
- +item.ss.copper_axe.name=铜斧
- +item.ss.copper_sword.name=铜剑
- +item.ss.copper_hoe.name=铜锄
- +
- +item.ss.silver_shovel.name=银铲
- +item.ss.silver_pickaxe.name=银镐
- +item.ss.silver_axe.name=银斧
- +item.ss.silver_sword.name=银剑
- +item.ss.silver_hoe.name=银锄
- +
- +item.ss.orichalcum_shovel.name=山铜铲
- +item.ss.orichalcum_pickaxe.name=山铜镐
- +item.ss.orichalcum_axe.name=山铜斧
- +item.ss.orichalcum_sword.name=山铜剑
- +item.ss.orichalcum_hoe.name=山铜锄
- +
- +#-Forestry-
- +item.ss.sap_bottle.name=汁液瓶
- +item.ss.rubber_bottle.name=橡胶瓶
- +
- +#-Mining-
- +item.ss.copper_ingot.name=铜锭
- +item.ss.silver_ingot.name=银锭
- +item.ss.orichalcum_gem.name=山铜
- +
- +
- +#-Industry-
- +item.ss.coal_dust.name=煤粉
- +item.ss.iron_dust.name=铁粉
- +item.ss.gold_dust.name=金粉
- +item.ss.copper_dust.name=铜粉
- +item.ss.silver_dust.name=银粉
- +
- +item.ss.plastic.name=塑料
- +
- +
- +#Tab
- +itemGroup.ss.core=第六产业|核心|
- +itemGroup.ss.forestry=第六产业|林业|
- +itemGroup.ss.mining=第六产业|矿物|
- +itemGroup.ss.industry=第六产业|工业|
+#Chinese zh_CN
+
+#Block
+#-Core-
+tile.ss.lapis_pressure_plate.name=青金石压力板
+tile.ss.copper_pressure_plate.name=铜质压力板
+tile.ss.silver_pressure_plate.name=银质压力板
+tile.ss.orichalcum_pressure_plate.name=山铜压力板
+
+tile.ss.sanctuary.name=避难所
+
+tile.ss.ender_stone.name=末地石纪念碑
+tile.ss.ender_stone_foundation.name=末地石纪念碑基座
+
+#-Forestry-
+tile.ss.rubber_sapling.name=橡胶树苗
+tile.ss.rubber_log.name=橡胶原木
+tile.ss.rubber_leaves.name=橡胶树叶
+
+tile.ss.maple_sapling.name=枫树苗
+tile.ss.maple_log.name=枫树原木
+tile.ss.maple_leaves.name=枫树叶
+
+tile.ss.spile.name=木桩
+
+tile.ss.sap_cauldron.name汁液锅
+tile.ss.rubber_cauldron.name=橡胶锅
+tile.ss.maple_cauldron.name=枫糖鍋
+
+#-Mining-
+tile.ss.copper_ore.name=铜矿石
+tile.ss.silver_ore.name=银矿石
+tile.ss.orichalcum_ore.name=山铜矿石
+
+tile.ss.coal_large_ore.name=大型煤炭矿石
+tile.ss.iron_large_ore.name=大型铁矿石
+tile.ss.gold_large_ore.name=大型金矿石
+tile.ss.copper_large_ore.name=大型铜矿石
+tile.ss.silver_large_ore.name=大型银矿石
+
+tile.ss.copper_block.name=铜块
+tile.ss.silver_block.name=银块
+tile.ss.orichalcum_block.name=山铜块
+
+#-Industry-
+tile.ss.plastic_block.name=塑料块
+tile.ss.rubber_block.name=橡胶块
+
+#-Cooking-
+tile.ss.maple_cake.name=枫液
+
+#Item
+#-Core-
+item.ss.bluestone.name=蓝石粉
+
+item.ss.plastic_shield.name=塑料盾牌
+
+item.ss.ender_card.name=末影卡
+
+item.ss.depth_meter.name=深度测量计
+
+#Tool
+item.ss.copper_shovel.name=铜铲
+item.ss.copper_pickaxe.name=铜镐
+item.ss.copper_axe.name=铜斧
+item.ss.copper_sword.name=铜剑
+item.ss.copper_hoe.name=铜锄
++
+item.ss.silver_shovel.name=银铲
+item.ss.silver_pickaxe.name=银镐
+item.ss.silver_axe.name=银斧
+item.ss.silver_sword.name=银剑
+item.ss.silver_hoe.name=银锄
+
+item.ss.orichalcum_shovel.name=山铜铲
+item.ss.orichalcum_pickaxe.name=山铜镐
+item.ss.orichalcum_axe.name=山铜斧
+item.ss.orichalcum_sword.name=山铜剑
+item.ss.orichalcum_hoe.name=山铜锄
+
+#Equipment
+item.ss.copper_helmet.name=铜头盔
+item.ss.copper_chestplate.name=铜胸甲
+item.ss.copper_leggings.name=铜护腿
+item.ss.copper_boots.name=铜靴子
+
+item.ss.silver_helmet.name=银头盔
+item.ss.silver_chestplate.name=银胸甲
+item.ss.silver_leggings.name=银护腿
+item.ss.silver_boots.name=银靴子
+
+item.ss.orichalcum_helmet.name=山铜头盔
+item.ss.orichalcum_chestplate.name=山铜胸甲
+item.ss.orichalcum_leggings.name=山铜护腿
+item.ss.orichalcum_boots.name=山铜靴子
+
+#-Forestry-
+item.ss.sap_bottle.name=汁液瓶
+item.ss.rubber_bottle.name=橡胶瓶
+item.ss.maple_bottle.name=枫液瓶
+
+#-Mining-
+item.ss.copper_ingot.name=铜锭
+item.ss.silver_ingot.name=银锭
+item.ss.orichalcum_gem.name=山铜
+
+
+#-Industry-
+item.ss.coal_dust.name=煤粉
+item.ss.iron_dust.name=铁粉
+item.ss.gold_dust.name=金粉
+item.ss.copper_dust.name=铜粉
+item.ss.silver_dust.name=银粉
+
+item.ss.plastic.name=塑料
+item.ss.rubber.name=橡胶
+
+item.ss.rubber_gloves.name=橡胶手套
+
+item.ss.duct_tape.name=胶带
+
+
+#Fluid
+fluid.sap.name=汁液
+fluid.rubber.name=橡胶
+fluid.maple.name=枫液
+
+#Tab
+itemGroup.ss.core=第六产业|核心|
+itemGroup.ss.forestry=第六产业|林业|
+itemGroup.ss.mining=第六产业|矿物|
+itemGroup.ss.industry=第六产业|工业|
+
+#Achievement
+achievement.ss.core=第六产业|核心|
+
+achievement.ss.bluestone=新的可能性
+achievement.ss.bluestone.desc=熔炼一个红石
+achievement.ss.bluestone.desc.unlocked=稳定的能源
+
+achievement.ss.shield=秘密的盾牌
+achievement.ss.shield.desc=制作一个盾牌
+achievement.ss.shield.desc.unlocked=使用简单！
+
+achievement.ss.sanctuary=3X3
+achievement.ss.sanctuary.desc=制作一个避难所
+achievement.ss.sanctuary.desc=1/2
+
+achievement.ss.depth_meter=矿工必需品
+achievement.ss.depth_meter.desc=制作一个深度测量计
+achievement.ss.depth_meter.desc.unlocked=进一步深入
+
+
+achievement.ss.forestry=第六产业|林业|
+
+achievement.ss.spile=轻轻一戳
+achievement.ss.spile.desc=制作一个木桩
+achievement.ss.spile.desc.unlocked=颤动
+
+achievement.ss.sap_bottle=似乎很甜蜜
+achievement.ss.sap_bottle.desc=从大锅提取汁液
+achievement.ss.sap_bottle.desc.unlocked=好...
+
+achievement.ss.rubber_bottle=电是无效的!
+achievement.ss.rubber_bottle.desc=从大锅提取橡胶
+achievement.ss.rubber_bottle.desc.unlocked=哇哈哈哈哈
+
+achievement.ss.maple_bottle=很甜!
+achievement.ss.maple_bottle.desc=从大锅提取枫液
+achievement.ss.maple_bottle.desc.unlocked=材料学
+
+
+achievement.ss.mining=第六产业|矿物|
+
+achievement.ss.new_ore=新阶层
+achievement.ss.new_ore.desc=拾取一个ss3的矿物
+achievement.ss.new_ore.desc.unlocked=发生地震?
+
+achievement.ss.silver=中毒
+achievement.ss.silver.desc=冶炼一个银矿
+achievement.ss.silver.desc.unlocked=但，这是
+
+
+
+achievement.ss.industry=第六产业|工业|
+
+achievement.ss.plastic=轻质高强
+achievement.ss.plastic.desc=熔炼汁液
+achievement.ss.plastic.desc.unlocked=透明
+
+achievement.ss.rubber=软的
+achievement.ss.rubber.desc=冶炼一个橡胶
+achievement.ss.rubber.desc.unlocked=硬
+
+#Config
+config.ss.title=SextiarySector3 Configuration
+
+config.ss.general=General Settings
+config.ss.general.tooltip=Change the settings contained in general category.
+
+config.ss.general.fast_decay_leaves=Fast Decay Leaves
+config.ss.general.fast_decay_leaves.tooltip=Specify the bool for enable fast decay leaves.
+
+
+config.ss.world=World Settings
+config.ss.world.tooltip=Change the settings contained in world category.
+
+config.ss.world.generate_copper_ore=Generate Copper Ore
+config.ss.world.generate_copper_ore.tooltip=Specify the bool for generate copper ore.
+
+config.ss.world.generate_silver_ore=Generate Silver Ore
+config.ss.world.generate_silver_ore.tooltip=Specify the bool for generate silver ore.
+
+config.ss.world.generate_orichalcum_ore=Generate Orichalcum Ore
+config.ss.world.generate_orichalcum_ore.tooltip=Generates orichalcum ore blocks in the world.
+
+config.ss.world.generate_coal_large_ore=Generate Coal Large Ore
+config.ss.world.generate_coal_large_ore.tooltip=Generates coal large ore blocks in the world.
+
+config.ss.world.generate_iron_large_ore=Generate Iron Large Ore
+config.ss.world.generate_iron_large_ore.tooltip=Generates iron large ore blocks in the world.
+
+config.ss.world.generate_gold_large_ore=Generate Gold Large Ore
+config.ss.world.generate_gold_large_ore.tooltip=Generates gold large ore blocks in the world.
+
+config.ss.world.generate_copper_large_ore=Generate Copper Large Ore
+config.ss.world.generate_copper_large_ore.tooltip=Generates copper large ore blocks in the world.
+
+config.ss.world.generate_silver_large_ore=Generate Silver Large Ore
+config.ss.world.generate_silver_large_ore.tooltip=Generates silver large ore blocks in the world.
+
+#JEI
+gui.ss3.category.cauldron=大锅
+gui.ss3.category.spile=木桩
