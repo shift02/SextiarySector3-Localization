@@ -130,6 +130,7 @@ itemGroup.ss.core=SextiarySector -Core-
 itemGroup.ss.forestry=SextiarySector -Forestry-
 itemGroup.ss.mining=SextiarySector -Mining-
 itemGroup.ss.industry=SextiarySector -Industry-
+itemGroup.ss.cooking=SextiarySector -Cooking-
 
 #Achievement
 achievement.ss.core=SS3 -Core-
