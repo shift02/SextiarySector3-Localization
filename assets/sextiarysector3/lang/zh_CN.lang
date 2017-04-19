@@ -46,6 +46,9 @@ tile.ss.orichalcum_block.name=山铜块
 tile.ss.plastic_block.name=塑料块
 tile.ss.rubber_block.name=橡胶块
 
+tile.ss.wood_shaft.name=木轴
+tile.ss.conveyor.name=传送带
+
 #-Cooking-
 tile.ss.maple_cake.name=枫液
 
@@ -130,6 +133,7 @@ itemGroup.ss.core=第六产业|核心|
 itemGroup.ss.forestry=第六产业|林业|
 itemGroup.ss.mining=第六产业|矿物|
 itemGroup.ss.industry=第六产业|工业|
+itemGroup.ss.cooking=第六产业|烹调|
 
 #Achievement
 achievement.ss.core=第六产业|核心|
