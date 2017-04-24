@@ -46,6 +46,8 @@ tile.ss.orichalcum_block.name=Orichalcum Block
 tile.ss.plastic_block.name=Plastic Block
 tile.ss.rubber_block.name=Rubber Block
 
+tile.ss.wood_scaffold.name=Wood Scaffold
+
 tile.ss.wood_shaft.name=Wood Shaft
 tile.ss.conveyor.name=Conveyor
 
