@@ -49,6 +49,9 @@ tile.ss.rubber_block.name=Rubber Block
 tile.ss.wood_scaffold.name=Wood Scaffold
 
 tile.ss.wood_shaft.name=Wood Shaft
+
+tile.ss.wood_gearbox.name=Wood Gearbox
+
 tile.ss.conveyor.name=Conveyor
 
 #-Cooking-
