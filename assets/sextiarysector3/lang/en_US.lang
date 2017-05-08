@@ -123,6 +123,10 @@ item.ss.silver_dust.name=Silver Dust
 item.ss.plastic.name=Plastic
 item.ss.rubber.name=Rubber
 
+item.ss.blue_gel.name=Blue Gel
+
+item.ss.wood_gear.name=Wood Gear
+
 item.ss.rubber_gloves.name=Rubber Gloves
 
 item.ss.duct_tape.name=Duct Tape
