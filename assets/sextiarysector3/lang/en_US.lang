@@ -73,6 +73,8 @@ item.ss.ender_card.name=Ender Card
 
 item.ss.depth_meter.name=Depth Meter
 
+item.ss.empty_capsule.name=Empty Capsule
+
 #Tool
 item.ss.copper_shovel.name=Copper Shovel
 item.ss.copper_pickaxe.name=Copper Pickaxe
@@ -145,11 +147,13 @@ fluid.sap.name=Sap
 fluid.rubber.name=Rubber
 fluid.maple.name=Maple
 
+
 #Tab
 itemGroup.ss.core=SextiarySector -Core-
 itemGroup.ss.forestry=SextiarySector -Forestry-
 itemGroup.ss.mining=SextiarySector -Mining-
 itemGroup.ss.industry=SextiarySector -Industry-
+itemGroup.ss.pharmacy=SextiarySector -Pharmacy-
 itemGroup.ss.cooking=SextiarySector -Cooking-
 
 #Achievement
@@ -212,6 +216,29 @@ achievement.ss.plastic.desc.unlocked=and Transparent
 achievement.ss.rubber=Soft
 achievement.ss.rubber.desc=Smelting a rubber
 achievement.ss.rubber.desc.unlocked=Hard
+
+
+#Capsule(Potion)
+capsule_potion.effect.empty=Uncraftable Capsule Potion
+capsule_potion.effect.water=Water Capsule
+capsule_potion.effect.mundane=Mundane Capsule Potion
+capsule_potion.effect.thick=Thick Capsule Potion
+capsule_potion.effect.awkward=Awkward Capsule Potion
+capsule_potion.effect.night_vision=Capsule Potion of Night Vision
+capsule_potion.effect.invisibility=Capsule Potion of Invisibility
+capsule_potion.effect.leaping=Capsule Potion of Leaping
+capsule_potion.effect.fire_resistance=Capsule Potion of Fire Resistance
+capsule_potion.effect.swiftness=Capsule Potion of Swiftness
+capsule_potion.effect.slowness=Capsule Potion of Slowness
+capsule_potion.effect.water_breathing=Capsule Potion of Water Breathing
+capsule_potion.effect.healing=Capsule Potion of Healing
+capsule_potion.effect.harming=Capsule Potion of Harming
+capsule_potion.effect.poison=Capsule Potion of Poison
+capsule_potion.effect.regeneration=Capsule Potion of Regeneration
+capsule_potion.effect.strength=Capsule Potion of Strength
+capsule_potion.effect.weakness=Capsule Potion of Weakness
+capsule_potion.effect.levitation=Capsule Potion of Levitation
+capsule_potion.effect.luck=Capsule Potion of Luck
 
 #Config
 config.ss.title=SextiarySector3 Configuration
