@@ -73,6 +73,9 @@ item.ss.ender_card.name=Ender Card
 
 item.ss.depth_meter.name=Depth Meter
 
+item.ss.calendar.name=Calendar
+item.ss.season_stone.name=Season Stone
+
 item.ss.empty_capsule.name=Empty Capsule
 
 #Tool
