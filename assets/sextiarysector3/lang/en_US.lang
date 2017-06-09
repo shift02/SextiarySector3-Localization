@@ -67,6 +67,8 @@ tile.ss.maple_cake.name=Maple Cake
 #-Economy-
 tile.ss.creeper_chest.name=Creeper Chest
 
+tile.ss.shop_monitor.name=Shop Monitor
+
 
 #Item
 #-Core-
@@ -155,6 +157,7 @@ item.ss.iron_spanner.name=Iron Spanner
 item.ss.creeper_memory.name=Creeper Memory
 
 
+
 #Fluid
 fluid.sap.name=Sap
 fluid.rubber.name=Rubber
@@ -169,6 +172,12 @@ itemGroup.ss.industry=SextiarySector -Industry-
 itemGroup.ss.pharmacy=SextiarySector -Pharmacy-
 itemGroup.ss.cooking=SextiarySector -Cooking-
 itemGroup.ss.economy=SextiarySector -Economy-
+
+#GUI
+container.ss.creeper_chest=Creeper Chest
+
+#Shop
+shop.ss.creeper=Creeper Shop
 
 #Achievement
 achievement.ss.core=SS3 -Core-
