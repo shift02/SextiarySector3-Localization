@@ -63,6 +63,11 @@ tile.ss.leaping_cake.name=Leaping Cake
 #-Cooking-
 tile.ss.maple_cake.name=Maple Cake
 
+
+#-Economy-
+tile.ss.creeper_chest.name=Creeper Chest
+
+
 #Item
 #-Core-
 item.ss.bluestone.name=Bluestone Dust
@@ -144,6 +149,11 @@ item.ss.rubber_gloves.name=Rubber Gloves
 
 item.ss.duct_tape.name=Duct Tape
 
+item.ss.iron_spanner.name=Iron Spanner
+
+#-Economy-
+item.ss.creeper_memory.name=Creeper Memory
+
 
 #Fluid
 fluid.sap.name=Sap
@@ -158,6 +168,7 @@ itemGroup.ss.mining=SextiarySector -Mining-
 itemGroup.ss.industry=SextiarySector -Industry-
 itemGroup.ss.pharmacy=SextiarySector -Pharmacy-
 itemGroup.ss.cooking=SextiarySector -Cooking-
+itemGroup.ss.economy=SextiarySector -Economy-
 
 #Achievement
 achievement.ss.core=SS3 -Core-
@@ -219,6 +230,17 @@ achievement.ss.plastic.desc.unlocked=and Transparent
 achievement.ss.rubber=Soft
 achievement.ss.rubber.desc=Smelting a rubber
 achievement.ss.rubber.desc.unlocked=Hard
+
+
+achievement.ss.economy=SS3 -Economy-
+
+achievement.ss.creeper_firework=Creeper Monger
+achievement.ss.creeper_firework.desc=The attempt to communicate with fireworks
+achievement.ss.creeper_firework.desc.unlocked=Explosion !
+
+achievement.ss.creeper_chest=Creeper Chest
+achievement.ss.creeper_chest.desc=Let's go to bed in a separate
+achievement.ss.creeper_chest.desc.unlocked=Santa Creeper ?
 
 
 #Capsule(Potion)
