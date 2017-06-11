@@ -46,6 +46,25 @@ tile.ss.orichalcum_block.name=Orichalcum Block
 tile.ss.plastic_block.name=Plastic Block
 tile.ss.rubber_block.name=Rubber Block
 
+tile.ss.plastic_chest.name=Plastic Chest
+
+tile.ss.plastic_white_chest.name=White Plastic Chest
+tile.ss.plastic_orange_chest.name=Orange Plastic Chest
+tile.ss.plastic_magenta_chest.name=Magenta Plastic Chest
+tile.ss.plastic_light_blue_chest.name=Light Blue Plastic Chest
+tile.ss.plastic_yellow_chest.name=Yellow Plastic Chest
+tile.ss.plastic_lime_chest.name=Lime Plastic Chest
+tile.ss.plastic_pink_chest.name=Pink Plastic Chest
+tile.ss.plastic_gray_chest.name=Gray Plastic Chest
+tile.ss.plastic_silver_chest.name=Silver Plastic Chest
+tile.ss.plastic_cyan_chest.name=Cyan Plastic Chest
+tile.ss.plastic_purple_chest.name=Purple Plastic Chest
+tile.ss.plastic_blue_chest.name=Blue Plastic Chest
+tile.ss.plastic_brown_chest.name=Brown Plastic Chest
+tile.ss.plastic_green_chest.name=Green Plastic Chest
+tile.ss.plastic_red_chest.name=Red Plastic Chest
+tile.ss.plastic_black_chest.name=Black Plastic Chest
+
 tile.ss.wood_scaffold.name=Wood Scaffold
 
 tile.ss.wood_shaft.name=Wood Shaft
