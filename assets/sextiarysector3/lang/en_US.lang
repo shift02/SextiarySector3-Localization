@@ -151,6 +151,9 @@ item.ss.copper_ingot.name=Copper Ingot
 item.ss.silver_ingot.name=Silver Ingot
 item.ss.orichalcum_gem.name=Orichalcum
 
+item.ss.iron_nugget.name=Iron Nugget
+item.ss.copper_nugget.name=Copper Nugget
+item.ss.silver_nugget.name=Silver Nugget
 
 #-Industry-
 item.ss.coal_dust.name=Coal Dust
