@@ -198,6 +198,25 @@ itemGroup.ss.economy=SextiarySector -Economy-
 #GUI
 container.ss.creeper_chest=Creeper Chest
 
+container.ss.plastic_chest=Plastic Chest
+
+container.ss.plastic_white_chest=White Plastic Chest
+container.ss.plastic_orange_chest=Orange Plastic Chest
+container.ss.plastic_magenta_chest=Magenta Plastic Chest
+container.ss.plastic_light_blue_chest=Light Blue Plastic Chest
+container.ss.plastic_yellow_chest=Yellow Plastic Chest
+container.ss.plastic_lime_chest=Lime Plastic Chest
+container.ss.plastic_pink_chest=Pink Plastic Chest
+container.ss.plastic_gray_chest=Gray Plastic Chest
+container.ss.plastic_silver_chest=Silver Plastic Chest
+container.ss.plastic_cyan_chest=Cyan Plastic Chest
+container.ss.plastic_purple_chest=Purple Plastic Chest
+container.ss.plastic_blue_chest=Blue Plastic Chest
+container.ss.plastic_brown_chest=Brown Plastic Chest
+container.ss.plastic_green_chest=Green Plastic Chest
+container.ss.plastic_red_chest=Red Plastic Chest
+container.ss.plastic_black_chest=Black Plastic Chest
+
 #Shop
 shop.ss.creeper=Creeper Shop
 
