@@ -1,0 +1,360 @@
+#Japanese ja_JP
+
+#Block
+#-Core-
+tile.ss.lapis_pressure_plate.name=ラピスラズリの感圧板
+tile.ss.copper_pressure_plate.name=銅の感圧板
+tile.ss.silver_pressure_plate.name=銀の感圧板
+tile.ss.orichalcum_pressure_plate.name=オリハルコンの感圧板
+
+tile.ss.sanctuary.name=サンクチュアリブロック
+
+tile.ss.ender_stone.name=エンダー石碑
+tile.ss.ender_stone_foundation.name=エンダー石碑
+
+#-Forestry-
+tile.ss.rubber_sapling.name=ゴムの苗木
+tile.ss.rubber_log.name=ゴムの原木
+tile.ss.rubber_leaves.name=ゴムの葉
+
+tile.ss.maple_sapling.name=カエデの苗木
+tile.ss.maple_log.name=カエデの原木
+tile.ss.maple_leaves.name=カエデの葉
+
+tile.ss.spile.name=差し管
+
+tile.ss.sap_cauldron.name=樹液用大釜
+tile.ss.rubber_cauldron.name=ゴム用大釜
+tile.ss.maple_cauldron.name=メープルシロップ用大釜
+
+#-Mining-
+tile.ss.copper_ore.name=銅鉱石
+tile.ss.silver_ore.name=銀鉱石
+tile.ss.orichalcum_ore.name=オリハルコン鉱石
+
+tile.ss.coal_large_ore.name=大きな石炭鉱石
+tile.ss.iron_large_ore.name=大きな鉄鉱石
+tile.ss.gold_large_ore.name=大きな金鉱石
+tile.ss.copper_large_ore.name=大きな銅鉱石
+tile.ss.silver_large_ore.name=大きな銀鉱石
+
+tile.ss.copper_block.name=銅ブロック
+tile.ss.silver_block.name=銀ブロック
+tile.ss.orichalcum_block.name=オリハルコンブロック
+
+#-Industry-
+tile.ss.plastic_block.name=プラスチックブロック
+tile.ss.rubber_block.name=ゴムブロック
+
+tile.ss.plastic_chest.name=プラスチックチェスト
+
+tile.ss.plastic_white_chest.name=白色のプラスチックチェスト
+tile.ss.plastic_orange_chest.name=橙色のプラスチックチェスト
+tile.ss.plastic_magenta_chest.name=赤紫色のプラスチックチェスト
+tile.ss.plastic_light_blue_chest.name=空色のプラスチックチェスト
+tile.ss.plastic_yellow_chest.name=黄色のプラスチックチェスト
+tile.ss.plastic_lime_chest.name=黄緑色のプラスチックチェスト
+tile.ss.plastic_pink_chest.name=桃色のプラスチックチェスト
+tile.ss.plastic_gray_chest.name=灰色のプラスチックチェスト
+tile.ss.plastic_silver_chest.name=薄灰色のプラスチックチェスト
+tile.ss.plastic_cyan_chest.name=水色のプラスチックチェスト
+tile.ss.plastic_purple_chest.name=紫色のプラスチックチェスト
+tile.ss.plastic_blue_chest.name=青色のプラスチックチェスト
+tile.ss.plastic_brown_chest.name=茶色のプラスチックチェスト
+tile.ss.plastic_green_chest.name=緑色のプラスチックチェスト
+tile.ss.plastic_red_chest.name=赤色のプラスチックチェスト
+tile.ss.plastic_black_chest.name=黒色のプラスチックチェスト
+
+tile.ss.wood_scaffold.name=木の足場
+
+tile.ss.wood_shaft.name=木のシャフト
+
+tile.ss.wood_gearbox.name=木のギアボックス
+
+tile.ss.conveyor.name=コンベアー
+
+#tile.ss.wood_shaft.name=小さな風車
+
+#-Magic-
+tile.ss.strength_cake.name=力のケーキ
+tile.ss.swiftness_cake.name=俊敏のケーキ
+tile.ss.fireresistance_cake.name=耐火のケーキ
+tile.ss.leaping_cake.name=跳躍のケーキ
+
+#-Cooking-
+tile.ss.maple_cake.name=メープルケーキ
+
+
+#-Economy-
+tile.ss.creeper_chest.name=クリーパーチェスト
+
+tile.ss.shop_monitor.name=ショップモニター
+
+
+#Item
+#-Core-
+item.ss.bluestone.name=ブルーストーンダスト
+
+item.ss.plastic_shield.name=プラスチックシールド
+
+item.ss.ender_card.name=エンダーカード
+
+item.ss.depth_meter.name=深度計
+
+item.ss.calendar.name=カレンダー
+item.ss.season_stone.name=シーズンストーン
+
+item.ss.empty_capsule.name=空のカプセル
+
+#Tool
+item.ss.copper_shovel.name=銅のスコップ
+item.ss.copper_pickaxe.name=銅のツルハシ
+item.ss.copper_axe.name=銅の斧
+item.ss.copper_sword.name=銅の剣
+item.ss.copper_hoe.name=銅のクワ
+
+item.ss.silver_shovel.name=銀のスコップ
+item.ss.silver_pickaxe.name=銀のツルハシ
+item.ss.silver_axe.name=銀の斧
+item.ss.silver_sword.name=銀の剣
+item.ss.silver_hoe.name=銀のクワ
+
+item.ss.orichalcum_shovel.name=オリハルコンのスコップ
+item.ss.orichalcum_pickaxe.name=オリハルコンのツルハシ
+item.ss.orichalcum_axe.name=オリハルコンの斧
+item.ss.orichalcum_sword.name=オリハルコンの剣
+item.ss.orichalcum_hoe.name=オリハルコンのクワ
+
+#Equipment
+item.ss.copper_helmet.name=銅のヘルメット
+item.ss.copper_chestplate.name=銅のチェストプレート
+item.ss.copper_leggings.name=銅のレギンス
+item.ss.copper_boots.name=銅のブーツ
+
+item.ss.silver_helmet.name=銀のヘルメット
+item.ss.silver_chestplate.name=銀のチェストプレート
+item.ss.silver_leggings.name=銀のレギンス
+item.ss.silver_boots.name=銀のブーツ
+
+item.ss.orichalcum_helmet.name=オリハルコンのヘルメット
+item.ss.orichalcum_chestplate.name=オリハルコンのチェストプレート
+item.ss.orichalcum_leggings.name=オリハルコンのレギンス
+item.ss.orichalcum_boots.name=オリハルコンのブーツ
+
+#-Forestry-
+item.ss.tree_branch.name=木の枝
+
+item.ss.sap_bottle.name=樹液入りボトル
+item.ss.rubber_bottle.name=ゴム入りボトル
+item.ss.maple_bottle.name=メープルシロップ入りボトル
+
+#-Mining-
+item.ss.copper_ingot.name=銅のインゴット
+item.ss.silver_ingot.name=銀のインゴット
+item.ss.orichalcum_gem.name=オリハルコン
+
+item.ss.iron_nugget.name=鉄のナゲット
+item.ss.copper_nugget.name=銅のナゲット
+item.ss.silver_nugget.name=銀のナゲット
+
+#-Industry-
+item.ss.coal_dust.name=石炭の粉
+item.ss.iron_dust.name=鉄の粉
+item.ss.gold_dust.name=金の粉
+item.ss.copper_dust.name=銅の粉
+item.ss.silver_dust.name=銀の粉
+
+item.ss.plastic.name=プラスチック
+item.ss.rubber.name=ゴム
+
+item.ss.blue_gel.name=ブルーストーンジェル
+
+item.ss.wood_gear.name=木の歯車
+
+item.ss.rubber_gloves.name=ゴムの手袋
+
+item.ss.duct_tape.name=ダクトテープ
+
+item.ss.iron_spanner.name=鉄のスパナ
+
+#-Economy-
+item.ss.creeper_memory.name=クリーパーメモリー
+
+
+
+#Fluid
+fluid.sap.name=樹液
+fluid.rubber.name=ゴム
+fluid.maple.name=メープルシロップ
+
+
+#Tab
+itemGroup.ss.core=SextiarySector -基礎-
+itemGroup.ss.forestry=SextiarySector -林業-
+itemGroup.ss.mining=SextiarySector -鉱業-
+itemGroup.ss.industry=SextiarySector -工業-
+itemGroup.ss.pharmacy=SextiarySector -調剤-
+itemGroup.ss.cooking=SextiarySector -料理-
+itemGroup.ss.economy=SextiarySector -経済-
+
+#GUI
+container.ss.creeper_chest=クリーパーチェスト
+
+container.ss.plastic_chest=プラスチックチェスト
+
+container.ss.plastic_white_chest=白色のプラスチックチェスト
+container.ss.plastic_orange_chest=橙色のプラスチックチェスト
+container.ss.plastic_magenta_chest=赤紫色のプラスチックチェスト
+container.ss.plastic_light_blue_chest=空色のプラスチックチェスト
+container.ss.plastic_yellow_chest=黄色のプラスチックチェスト
+container.ss.plastic_lime_chest=黄緑色のプラスチックチェスト
+container.ss.plastic_pink_chest=桃
+container.ss.plastic_gray_chest=灰色のプラスチックチェスト
+container.ss.plastic_silver_chest=薄灰色のプラスチックチェスト
+container.ss.plastic_cyan_chest=水色のプラスチックチェスト
+container.ss.plastic_purple_chest=紫色のプラスチックチェスト
+container.ss.plastic_blue_chest=青色のプラスチックチェスト
+container.ss.plastic_brown_chest=茶色のプラスチックチェスト
+container.ss.plastic_green_chest=緑色のプラスチックチェスト
+container.ss.plastic_red_chest=赤色のプラスチックチェスト
+container.ss.plastic_black_chest=黒色のプラスチックチェスト
+
+#Shop
+shop.ss.creeper=クリーパーショップ
+
+#Achievement
+achievement.ss.core=SS3 -基礎-
+
+achievement.ss.bluestone=新たな可能性
+achievement.ss.bluestone.desc=レッドストーンダストを精錬し、ブルーストーンダストを入手する
+achievement.ss.bluestone.desc.unlocked=変わらないエネルギー
+
+achievement.ss.shield=秘密の盾
+achievement.ss.shield.desc=プラスチックを6つ使い、プラスチックシールドを作る
+achievement.ss.shield.desc.unlocked=使いやすい！
+
+achievement.ss.sanctuary=3 × 3
+achievement.ss.sanctuary.desc=サンクチュアリブロックを作る
+achievement.ss.sanctuary.desc.unlocked=1 ÷ 2
+
+achievement.ss.depth_meter=炭鉱夫の必需品
+achievement.ss.depth_meter.desc=深度計を作る
+achievement.ss.depth_meter.desc.unlocked=もっと深くへ
+
+
+achievement.ss.forestry=SS3 -林業-
+
+achievement.ss.spile=優しく刺そう！
+achievement.ss.spile.desc=差し管を作る
+achievement.ss.spile.desc.unlocked=ぷるぷる
+
+achievement.ss.sap_bottle=あまーい？
+achievement.ss.sap_bottle.desc=大釜から樹液を取り出す
+achievement.ss.sap_bottle.desc.unlocked=まあ...
+
+achievement.ss.rubber_bottle=電気無効！
+achievement.ss.rubber_bottle.desc=大釜からゴムを取り出す
+achievement.ss.rubber_bottle.desc.unlocked=アハハハハ
+
+achievement.ss.maple_bottle=あまーい！
+achievement.ss.maple_bottle.desc=大釜からメープルシロップを取り出す
+achievement.ss.maple_bottle.desc.unlocked=薬の材料にもなる
+
+
+achievement.ss.mining=SS3 -鉱業-
+
+achievement.ss.new_ore=新たな地層
+achievement.ss.new_ore.desc=SS3の鉱石を手に入れる
+achievement.ss.new_ore.desc.unlocked=地震でも起こった?
+
+achievement.ss.silver=中毒
+achievement.ss.silver.desc=銀鉱石を精錬して、銀インゴットを手に入れる
+achievement.ss.silver.desc.unlocked=ペロ ！？こ、これは…
+
+
+
+achievement.ss.industry=SS3 -工業-
+
+achievement.ss.plastic=軽くて硬い
+achievement.ss.plastic.desc=樹液ボトルを精錬して、プラスチックを手に入れる
+achievement.ss.plastic.desc.unlocked=そして透明だ
+
+achievement.ss.rubber=柔らかい
+achievement.ss.rubber.desc=ゴム入りボトルを精錬して、ゴムを手に入れる
+achievement.ss.rubber.desc.unlocked=だが硬い
+
+
+achievement.ss.economy=SS3 -経済-
+
+achievement.ss.creeper_firework=クリーパー商人
+achievement.ss.creeper_firework.desc=花火を使って通信してみよう
+achievement.ss.creeper_firework.desc.unlocked=爆発！
+
+achievement.ss.creeper_chest=クリーパーチェスト
+achievement.ss.creeper_chest.desc=さあ、ベットへ行こう
+achievement.ss.creeper_chest.desc.unlocked=サンタのクリーパー？
+
+
+#Capsule(Potion)
+capsule_potion.effect.empty=空のカプセル
+capsule_potion.effect.water=水入りカプセル
+capsule_potion.effect.mundane=ありふれたカプセル
+capsule_potion.effect.thick=濃厚なカプセル
+capsule_potion.effect.awkward=奇妙なカプセル
+capsule_potion.effect.night_vision=暗視のカプセル
+capsule_potion.effect.invisibility=透明化のカプセル
+capsule_potion.effect.leaping=跳躍のカプセル
+capsule_potion.effect.fire_resistance=耐火のカプセル
+capsule_potion.effect.swiftness=俊敏のカプセル
+capsule_potion.effect.slowness=鈍化のカプセル
+capsule_potion.effect.water_breathing=水中呼吸のカプセル
+capsule_potion.effect.healing=治癒のカプセル
+capsule_potion.effect.harming=負傷のカプセル
+capsule_potion.effect.poison=毒のカプセル
+capsule_potion.effect.regeneration=再生のカプセル
+capsule_potion.effect.strength=力のカプセル
+capsule_potion.effect.weakness=弱化のカプセル
+capsule_potion.effect.levitation=浮遊のカプセル
+capsule_potion.effect.luck=幸運のカプセル
+
+#Config
+config.ss.title=SextiarySector3 Configuration
+
+config.ss.general=General Settings
+config.ss.general.tooltip=Change the settings contained in general category.
+
+config.ss.general.fast_decay_leaves=Fast Decay Leaves
+config.ss.general.fast_decay_leaves.tooltip=Specify the bool for enable fast decay leaves.
+
+
+config.ss.world=World Settings
+config.ss.world.tooltip=Change the settings contained in world category.
+
+config.ss.world.generate_copper_ore=Generate Copper Ore
+config.ss.world.generate_copper_ore.tooltip=Specify the bool for generate copper ore.
+
+config.ss.world.generate_silver_ore=Generate Silver Ore
+config.ss.world.generate_silver_ore.tooltip=Specify the bool for generate silver ore.
+
+config.ss.world.generate_orichalcum_ore=Generate Orichalcum Ore
+config.ss.world.generate_orichalcum_ore.tooltip=Generates orichalcum ore blocks in the world.
+
+config.ss.world.generate_coal_large_ore=Generate Coal Large Ore
+config.ss.world.generate_coal_large_ore.tooltip=Generates coal large ore blocks in the world.
+
+config.ss.world.generate_iron_large_ore=Generate Iron Large Ore
+config.ss.world.generate_iron_large_ore.tooltip=Generates iron large ore blocks in the world.
+
+config.ss.world.generate_gold_large_ore=Generate Gold Large Ore
+config.ss.world.generate_gold_large_ore.tooltip=Generates gold large ore blocks in the world.
+
+config.ss.world.generate_copper_large_ore=Generate Copper Large Ore
+config.ss.world.generate_copper_large_ore.tooltip=Generates copper large ore blocks in the world.
+
+config.ss.world.generate_silver_large_ore=Generate Silver Large Ore
+config.ss.world.generate_silver_large_ore.tooltip=Generates silver large ore blocks in the world.
+
+#JEI
+gui.ss3.category.cauldron=大釜
+gui.ss3.category.spile=差し管
+
