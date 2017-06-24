@@ -175,6 +175,9 @@ item.ss.duct_tape.name=Duct Tape
 
 item.ss.iron_spanner.name=Iron Spanner
 
+#-Pharmacy-
+item.ss.shining_flower.name=Shining Flower
+
 #-Economy-
 item.ss.creeper_memory.name=Creeper Memory
 
