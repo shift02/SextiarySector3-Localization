@@ -295,6 +295,17 @@ achievement.ss.creeper_chest=Creeper Chest
 achievement.ss.creeper_chest.desc=Let's go to bed in a separate
 achievement.ss.creeper_chest.desc.unlocked=Santa Creeper ?
 
+#Potion
+potion.effect.haste=Potion of Haste
+potion.effect.glowing=Potion of Glowing
+
+splash_potion.effect.haste=Splash Potion of Haste
+splash_potion.effect.glowing=Splash Potion of Glowing
+
+lingering_potion.effect.haste=Lingering Potion of Haste
+lingering_potion.effect.glowing=Lingering Potion of Glowing
+
+
 
 #Capsule(Potion)
 capsule_potion.effect.empty=Uncraftable Capsule Potion
