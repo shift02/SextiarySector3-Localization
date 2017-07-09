@@ -21,6 +21,10 @@ tile.ss.maple_sapling.name=Maple Sapling
 tile.ss.maple_log.name=Maple Log
 tile.ss.maple_leaves.name=Maple Leaves
 
+tile.ss.plum_sapling.name=Plum Sapling
+tile.ss.plum_log.name=Plum Log
+tile.ss.plum_leaves.name=Plum Leaves
+
 tile.ss.spile.name=Spile
 
 tile.ss.sap_cauldron.name=Sap Cauldron
